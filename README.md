@@ -1,4 +1,4 @@
-# Ember Website
+# Ember Website - Take a look at it
 This is the legacy repository for the [Ember.js public website](https://emberjs.com). 
 
 You can find the current repositories here:
